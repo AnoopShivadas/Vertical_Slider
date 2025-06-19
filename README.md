@@ -5,7 +5,7 @@ A smooth and interactive **vertical image slider** built using **HTML, CSS, and 
 ---
 
 ## 🔥 Demo
-Click Here: 
+Click Here:  https://anoopshivadas.github.io/Vertical_Slider/
 
 ---
 
